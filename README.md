@@ -10,13 +10,10 @@ A SQL Developer portfolio project focused on driver earnings, weekly payout sett
 uber-india-driver-earnings-settlement-system/
 ├── README.md
 ├── .gitignore
-├── Developer/
-│   └── SQL_Developer_Uber_India_Driver_Earnings_and_Trip_Settlement_System.ipynb
-├── Instructor/
-│   └── Instructor_Solution_Uber_India_Driver_Earnings_and_Trip_Settlement_System.ipynb
-└── Product_Document/
-    ├── PRD_Uber_India_Driver_Earnings_and_Trip_Settlement_System.docx
-    └── Meeting_Transcript_Uber_India_Driver_Earnings_and_Trip_Settlement_System.docx
+├── SQL_Developer_Uber_India_Driver_Earnings_and_Trip_Settlement_System.ipynb
+├── Instructor_Solution_Uber_India_Driver_Earnings_and_Trip_Settlement_System.ipynb
+└── PRD_Uber_India_Driver_Earnings_and_Trip_Settlement_System.docx
+└── Meeting_Transcript_Uber_India_Driver_Earnings_and_Trip_Settlement_System.docx
 ```
 
 ## Business problem

@@ -83,3 +83,10 @@ The stakeholder names and handover conversation are part of the supplied scenari
 - The API is a temporary local simulator created for the notebook runtime.
 - Cron expressions are validated as scheduling definitions; a stopped Google Colab runtime cannot host a persistent cron daemon.
 - This repository demonstrates SQL and data-control concepts in a reproducible portfolio simulation.
+
+## Notebooks
+
+| Notebook | Description | Link |
+|---|---|---|
+| Developer Notebook | SQL exercises and implementation workspace | [Open in Google Colab](https://colab.research.google.com/github/ashutoshraj1/uber-india-driver-earnings-settlement-system/blob/main/Developer/SQL_Developer_Uber_India_Driver_Earnings_and_Trip_Settlement_System.ipynb) |
+| Instructor Solution | Completed SQL implementation with execution outputs | [Open in Google Colab](https://colab.research.google.com/github/ashutoshraj1/uber-india-driver-earnings-settlement-system/blob/main/Instructor/Instructor_Solution_Uber_India_Driver_Earnings_and_Trip_Settlement_System.ipynb) |
